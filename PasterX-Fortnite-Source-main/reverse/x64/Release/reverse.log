@@ -1,0 +1,1073 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (VenomVgreen.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pasterx.cpp
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(142,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(147,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(147,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(147,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(152,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(152,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(152,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(157,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(157,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(157,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(161,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(161,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(161,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(181,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(182,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(183,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(185,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(186,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(187,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(189,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(190,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(191,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(192,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(193,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(194,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(196,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(197,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(198,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(199,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(201,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(202,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(203,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(204,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(206,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(207,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(208,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(209,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(250,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(66,1): warning C4005: 'STATUS_WAIT_0': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2549,1):
+  see previous definition of 'STATUS_WAIT_0'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(223,1): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2550,1):
+  see previous definition of 'STATUS_ABANDONED_WAIT_0'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(246,1): warning C4005: 'STATUS_USER_APC': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2551,1):
+  see previous definition of 'STATUS_USER_APC'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(282,1): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2552,1):
+  see previous definition of 'STATUS_TIMEOUT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(291,1): warning C4005: 'STATUS_PENDING': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2553,1):
+  see previous definition of 'STATUS_PENDING'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(747,1): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2554,1):
+  see previous definition of 'DBG_EXCEPTION_HANDLED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(756,1): warning C4005: 'DBG_CONTINUE': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2555,1):
+  see previous definition of 'DBG_CONTINUE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(831,1): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2556,1):
+  see previous definition of 'STATUS_SEGMENT_NOTIFICATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(994,1): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2557,1):
+  see previous definition of 'STATUS_FATAL_APP_EXIT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1332,1): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2558,1):
+  see previous definition of 'DBG_REPLY_LATER'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1350,1): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2559,1):
+  see previous definition of 'DBG_TERMINATE_THREAD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1359,1): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2560,1):
+  see previous definition of 'DBG_TERMINATE_PROCESS'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1368,1): warning C4005: 'DBG_CONTROL_C': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2561,1):
+  see previous definition of 'DBG_CONTROL_C'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1377,1): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2562,1):
+  see previous definition of 'DBG_PRINTEXCEPTION_C'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1386,1): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2563,1):
+  see previous definition of 'DBG_RIPEXCEPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1395,1): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2564,1):
+  see previous definition of 'DBG_CONTROL_BREAK'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1404,1): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2565,1):
+  see previous definition of 'DBG_COMMAND_EXCEPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1413,1): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2566,1):
+  see previous definition of 'DBG_PRINTEXCEPTION_WIDE_C'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1445,1): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2567,1):
+  see previous definition of 'STATUS_GUARD_PAGE_VIOLATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1456,1): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2568,1):
+  see previous definition of 'STATUS_DATATYPE_MISALIGNMENT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1467,1): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2569,1):
+  see previous definition of 'STATUS_BREAKPOINT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1478,1): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2570,1):
+  see previous definition of 'STATUS_SINGLE_STEP'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1781,1): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2571,1):
+  see previous definition of 'STATUS_LONGJUMP'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1808,1): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2572,1):
+  see previous definition of 'STATUS_UNWIND_CONSOLIDATE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1923,1): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2573,1):
+  see previous definition of 'DBG_EXCEPTION_NOT_HANDLED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2090,1): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2574,1):
+  see previous definition of 'STATUS_ACCESS_VIOLATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2099,1): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2575,1):
+  see previous definition of 'STATUS_IN_PAGE_ERROR'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2117,1): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2576,1):
+  see previous definition of 'STATUS_INVALID_HANDLE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2162,1): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2577,1):
+  see previous definition of 'STATUS_INVALID_PARAMETER'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2262,1): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2578,1):
+  see previous definition of 'STATUS_NO_MEMORY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2319,1): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2579,1):
+  see previous definition of 'STATUS_ILLEGAL_INSTRUCTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2400,1): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2580,1):
+  see previous definition of 'STATUS_NONCONTINUABLE_EXCEPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2409,1): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2581,1):
+  see previous definition of 'STATUS_INVALID_DISPOSITION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3342,1): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2582,1):
+  see previous definition of 'STATUS_ARRAY_BOUNDS_EXCEEDED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3352,1): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2583,1):
+  see previous definition of 'STATUS_FLOAT_DENORMAL_OPERAND'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3362,1): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2584,1):
+  see previous definition of 'STATUS_FLOAT_DIVIDE_BY_ZERO'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3372,1): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2585,1):
+  see previous definition of 'STATUS_FLOAT_INEXACT_RESULT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3382,1): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2586,1):
+  see previous definition of 'STATUS_FLOAT_INVALID_OPERATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3392,1): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2587,1):
+  see previous definition of 'STATUS_FLOAT_OVERFLOW'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3402,1): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2588,1):
+  see previous definition of 'STATUS_FLOAT_STACK_CHECK'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3412,1): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2589,1):
+  see previous definition of 'STATUS_FLOAT_UNDERFLOW'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3422,1): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2590,1):
+  see previous definition of 'STATUS_INTEGER_DIVIDE_BY_ZERO'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3432,1): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2591,1):
+  see previous definition of 'STATUS_INTEGER_OVERFLOW'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3442,1): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2592,1):
+  see previous definition of 'STATUS_PRIVILEGED_INSTRUCTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4388,1): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2593,1):
+  see previous definition of 'STATUS_STACK_OVERFLOW'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4905,1): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2594,1):
+  see previous definition of 'STATUS_DLL_NOT_FOUND'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4934,1): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2595,1):
+  see previous definition of 'STATUS_ORDINAL_NOT_FOUND'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4944,1): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2596,1):
+  see previous definition of 'STATUS_ENTRYPOINT_NOT_FOUND'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4954,1): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2597,1):
+  see previous definition of 'STATUS_CONTROL_C_EXIT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(5032,1): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2598,1):
+  see previous definition of 'STATUS_DLL_INIT_FAILED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(6029,1): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2599,1):
+  see previous definition of 'STATUS_CONTROL_STACK_VIOLATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7623,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2600,1):
+  see previous definition of 'STATUS_FLOAT_MULTIPLE_FAULTS'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7633,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2601,1):
+  see previous definition of 'STATUS_FLOAT_MULTIPLE_TRAPS'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7765,1): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2602,1):
+  see previous definition of 'STATUS_REG_NAT_CONSUMPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8748,1): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2603,1):
+  see previous definition of 'STATUS_HEAP_CORRUPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8976,1): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2604,1):
+  see previous definition of 'STATUS_STACK_BUFFER_OVERRUN'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9103,1): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2605,1):
+  see previous definition of 'STATUS_INVALID_CRUNTIME_PARAMETER'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9166,1): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2606,1):
+  see previous definition of 'STATUS_ASSERTION_FAILURE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10075,1): warning C4005: 'STATUS_ENCLAVE_VIOLATION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2607,1):
+  see previous definition of 'STATUS_ENCLAVE_VIOLATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10808,1): warning C4005: 'STATUS_INTERRUPTED': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2608,1):
+  see previous definition of 'STATUS_INTERRUPTED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10817,1): warning C4005: 'STATUS_THREAD_NOT_RUNNING': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2609,1):
+  see previous definition of 'STATUS_THREAD_NOT_RUNNING'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(11129,1): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2610,1):
+  see previous definition of 'STATUS_ALREADY_REGISTERED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(15048,1): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2612,1):
+  see previous definition of 'STATUS_SXS_EARLY_DEACTIVATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(15057,1): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+  (compiling source file 'pasterx.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2613,1):
+  see previous definition of 'STATUS_SXS_INVALID_DEACTIVATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\uxtheme.h(1600,57): warning C4459: declaration of 'hwnd' hides global declaration
+  (compiling source file 'pasterx.cpp')
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(26,6):
+  see declaration of 'hwnd'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\driver.h(24,33): warning C4129: 'S': unrecognized character escape sequence
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\driver.h(31,17): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\driver.h(107,47): warning C4458: declaration of 'ProcessId' hides class member
+  (compiling source file 'pasterx.cpp')
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\driver.h(20,7):
+  see declaration of 'Driver::ProcessId'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\driver.h(249,45): warning C4244: 'argument': conversion from 'SIZE_T' to 'uint32_t', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\xor.hpp(211,22): warning C4244: 'return': conversion from 'int' to 'char', possible loss of data
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Keybind.h(55,22): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Keybind.h(71,24): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Keybind.h(87,25): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Keybind.h(103,23): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Keybind.h(119,26): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Keybind.h(785,14): warning C4459: declaration of 'aimkeys' hides global declaration
+  (compiling source file 'pasterx.cpp')
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(44,20):
+  see declaration of 'aimkeys'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Definitions.h(40,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'pasterx.cpp')
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(29,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(33,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(43,9): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(119,7):
+  see declaration of 'Vector3'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(44,9): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(119,7):
+  see declaration of 'Vector3'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(335,6): warning C4189: 'isCached': local variable is initialized but not referenced
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(356,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(357,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(358,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(383,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(384,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(385,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(582,148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(582,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(594,119): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(594,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(594,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(594,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(594,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(595,119): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(595,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(595,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(595,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(595,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(596,119): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(596,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(596,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(596,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(596,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(597,119): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(597,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(597,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(597,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(597,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(598,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(598,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(634,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(634,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(634,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(634,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(635,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(635,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(635,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(635,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(636,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(636,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(636,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(636,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(637,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(637,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(637,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(637,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(638,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(638,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(638,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(638,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(639,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(639,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(639,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(639,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(640,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(640,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(640,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(640,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(641,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(641,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(641,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(641,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(642,108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(642,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(642,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(642,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(643,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(643,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(643,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(643,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(644,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(644,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(644,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(644,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(645,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(645,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(645,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(645,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(646,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(646,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(646,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(646,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(729,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(729,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(729,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(729,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(729,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(729,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(734,172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(734,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(734,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(734,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(734,183): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(734,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(734,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(734,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(734,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(739,177): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(739,159): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(739,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(739,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(737,65): warning C4100: 'thickness': unreferenced formal parameter
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(737,44): warning C4100: 'y2': unreferenced formal parameter
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(737,36): warning C4100: 'x2': unreferenced formal parameter
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(737,28): warning C4100: 'y1': unreferenced formal parameter
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(737,20): warning C4100: 'x1': unreferenced formal parameter
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(744,212): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(744,194): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(744,176): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(744,158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(742,48): warning C4100: 'H': unreferenced formal parameter
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(742,39): warning C4100: 'W': unreferenced formal parameter
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(742,30): warning C4100: 'Y': unreferenced formal parameter
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(742,21): warning C4100: 'X': unreferenced formal parameter
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(750,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(750,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(750,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(750,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(750,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(750,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(750,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(752,56): warning C4459: declaration of 'Col' hides global declaration
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.h(413,14):
+  see declaration of 'Col'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(757,46): warning C4459: declaration of 'h' hides global declaration
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Print.hpp(13,8):
+  see declaration of 'h'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(759,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(759,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(759,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(759,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(761,45): warning C4459: declaration of 'h' hides global declaration
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Print.hpp(13,8):
+  see declaration of 'h'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(774,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(775,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(777,137): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(777,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(777,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(777,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(777,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(777,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(778,137): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(778,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(778,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(778,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(778,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(778,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(779,145): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(779,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(779,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(779,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(779,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(779,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(780,145): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(780,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(780,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(780,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(780,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(780,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(781,145): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(781,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(781,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(781,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(781,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(781,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(782,145): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(782,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(782,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(782,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(782,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(782,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(783,153): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(783,142): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(783,131): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(783,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(783,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(783,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(784,153): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(784,142): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(784,131): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(784,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(784,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(784,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(787,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(787,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(787,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(787,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(788,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(788,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(788,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(788,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(789,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(789,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(789,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(789,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(790,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(790,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(790,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(790,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(791,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(791,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(791,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(791,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(792,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(792,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(792,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(792,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(793,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(793,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(793,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(793,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(794,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(794,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(794,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(794,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(797,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(798,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(801,118): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(801,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(801,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(801,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(801,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(801,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(802,118): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(802,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(802,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(802,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(802,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(802,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(803,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(803,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(803,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(803,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(803,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(803,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(804,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(804,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(804,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(804,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(804,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(804,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(805,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(805,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(805,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(805,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(805,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(805,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(806,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(806,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(806,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(806,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(806,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(806,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(807,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(807,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(807,112): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(807,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(807,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(807,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(808,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(808,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(808,112): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(808,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(808,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(808,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(811,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(811,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(811,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(811,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(812,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(812,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(812,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(812,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(813,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(813,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(813,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(813,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(814,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(814,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(814,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(814,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(815,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(815,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(815,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(815,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(816,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(816,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(816,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(816,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(817,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(817,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(817,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(817,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(818,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(818,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(818,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(818,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(882,25): warning C4100: 'in': unreferenced formal parameter
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(995,23): warning C4100: 'in': unreferenced formal parameter
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1051,2): error C2059: syntax error: '{'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1051,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1056,2): error C2181: illegal else without matching if
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1059,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1062,8): error C2563: mismatch in formal parameter list
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1064,2): error C2181: illegal else without matching if
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1066,8): error C2563: mismatch in formal parameter list
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1223,8): warning C4459: declaration of 'ScreenCenterX' hides global declaration
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(39,7):
+  see declaration of 'ScreenCenterX'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1223,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1224,8): warning C4459: declaration of 'ScreenCenterY' hides global declaration
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(40,7):
+  see declaration of 'ScreenCenterY'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1224,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1225,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1285,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1285,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1291,170): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1291,152): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1291,134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1291,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1291,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1291,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1291,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1302,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1302,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1303,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1303,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1304,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1304,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1305,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1305,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1306,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1306,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1317,8): warning C4459: declaration of 'fovcircle' hides global declaration
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Definitions.h(11,6):
+  see declaration of 'fovcircle'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1318,9): warning C4459: declaration of 'fovcirclefilled' hides global declaration
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Definitions.h(37,6):
+  see declaration of 'fovcirclefilled'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1321,121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1321,64): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1321,49): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1322,8): warning C4459: declaration of 'square_fov' hides global declaration
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Definitions.h(22,6):
+  see declaration of 'square_fov'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1323,8): warning C4459: declaration of 'fovcircle' hides global declaration
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Definitions.h(11,6):
+  see declaration of 'fovcircle'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1324,9): warning C4459: declaration of 'fovcirclefilled' hides global declaration
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Definitions.h(37,6):
+  see declaration of 'fovcirclefilled'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1327,121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1327,64): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1327,49): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1343,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1351,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1351,18): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1351,18): warning C4244:         with
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1351,18): warning C4244:         [
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1351,18): warning C4244:             _Ty=int
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1351,18): warning C4244:         ]
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1352,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1352,18): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1352,18): warning C4244:         with
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1352,18): warning C4244:         [
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1352,18): warning C4244:             _Ty=int
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1352,18): warning C4244:         ]
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1353,33): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1353,33): warning C4244:         with
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1353,33): warning C4244:         [
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1353,33): warning C4244:             _Ty=int
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1353,33): warning C4244:         ]
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1354,33): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1354,33): warning C4244:         with
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1354,33): warning C4244:         [
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1354,33): warning C4244:             _Ty=int
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1354,33): warning C4244:         ]
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1356,102): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1356,85): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1356,64): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1356,54): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1357,116): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1357,99): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1357,74): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1357,57): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1420,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1432,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1436,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1440,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1444,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1448,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1452,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1456,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1460,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1464,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1468,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1472,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1476,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1480,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1484,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1488,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1492,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1496,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1500,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1504,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1508,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1512,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1516,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1520,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1524,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1528,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1532,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1536,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1540,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1544,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1548,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1552,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1556,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1560,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1564,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1568,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1572,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1576,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1580,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1584,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1588,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1592,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1596,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1600,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1604,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1608,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1612,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1616,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1620,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1624,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1628,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1632,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1645,11): warning C4459: declaration of 'PlayerCameraManager' hides global declaration
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\Definitions.h(68,11):
+  see declaration of 'PlayerCameraManager'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1662,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1688,7): warning C4456: declaration of 'entityListCopy' hides previous local declaration
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1635,6):
+  see declaration of 'entityListCopy'
+  
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1711,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1711,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1711,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1712,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1712,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1712,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1713,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1713,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1713,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1731,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1745,109): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1745,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1745,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1745,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1745,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1749,109): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1749,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1749,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1749,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1749,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1770,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1770,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1770,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1771,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1771,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1771,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1772,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1772,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1772,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1773,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1773,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1773,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1775,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1775,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1775,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1776,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1776,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1776,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1777,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1777,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1777,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1778,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1778,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1778,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1780,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1780,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1780,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1780,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1781,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1781,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1781,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1781,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1782,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1782,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1782,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1782,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1783,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1783,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1783,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1783,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1785,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1785,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1785,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1785,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1786,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1786,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1786,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1786,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1787,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1787,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1787,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1787,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1788,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1788,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1788,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1788,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1790,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1790,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1790,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1790,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1791,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1791,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1791,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1791,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1792,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1792,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1792,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1792,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1793,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1793,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1793,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1793,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1800,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1800,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1800,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1806,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1806,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1806,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1809,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1809,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1809,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1814,121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1814,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1814,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1814,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1814,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1815,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1815,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1815,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1815,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1828,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1828,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1844,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1844,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1844,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1854,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(1873,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(2073,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(2074,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(2111,42): warning C4459: declaration of 'Message' hides global declaration
+  C:\Users\mariu\Downloads\PasterX-Fortnite-Source-main\PasterX-Fortnite-Source-main\reverse\pasterx.cpp(2031,5):
+  see declaration of 'Message'
+  
